@@ -2,6 +2,8 @@
 Security Rules created for the ThunderHorse plugin in the context of our Master Thesis.  In collaboration with Fabian Harlang.
 # ThunderHorse plugin:
 https://www.npmjs.com/package/eslint-plugin-thunderhorse?activeTab=readme
+# Rules path:
+lib/rules
 # eslint-plugin-react-weblint
 
 <h2>Installation</h2>
